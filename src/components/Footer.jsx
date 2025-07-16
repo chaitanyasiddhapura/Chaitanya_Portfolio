@@ -21,7 +21,6 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto">
         {/* Top Section with Animated Columns */}
         <div className="flex flex-col md:flex-row justify-between mb-12 gap-y-12 md:gap-y-0">
-          {/* React.Dev */}
           <Motion.div
             className="md:w-2/5 pr-8 space-y-4"
             variants={fadeUp}
@@ -30,7 +29,7 @@ const Footer = () => {
             viewport={{ once: true }}
             custom={1}
           >
-            <h3 className="text-2xl font-bold text-blue-400">React.Dev</h3>
+            <h3 className="text-2xl font-bold text-blue-400">Chaitanya Siddhapura</h3>
             <p className="text-gray-400 leading-relaxed">
               Crafting exceptional digital experiences with modern technologies. 
               Helping startups and enterprises build products that users love.

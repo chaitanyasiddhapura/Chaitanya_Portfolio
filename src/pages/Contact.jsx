@@ -299,7 +299,7 @@ const ContactSection = () => {
                       achievements in detail.
                     </p>
                     <a
-                      href="../src/assets/SDE_Chaitanya-Siddhapura.pdf"
+                      href="/SDE_Chaitanya-Siddhapura.pdf"
                       download
                       className="inline-flex items-center gap-2 px-5 py-3 bg-gradient-to-r from-[#6E45E2] to-[#7D5BDE] rounded-lg text-white hover:shadow-lg transition-all duration-300"
                     >

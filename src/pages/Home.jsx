@@ -151,7 +151,7 @@ const Home = () => {
             View My Work →
           </a>
           <a
-            href="./src/assets/SDE_Chaitanya-Siddhapura.pdf"
+            href="/SDE_Chaitanya-Siddhapura.pdf"
             className="px-6 py-2 rounded-full bg-[#14141f]/80 backdrop-blur-sm border border-white/10 hover:border-purple-500 transition-all duration-300 text-white font-medium transform hover:scale-105 hover:shadow-lg hover:shadow-purple-500/25"
             target="_blank"
             rel="noopener noreferrer"

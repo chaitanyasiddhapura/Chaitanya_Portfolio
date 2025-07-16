@@ -49,7 +49,7 @@ const projects = [
     category: ["All", "Full-Stack"],
     image:
       "https://deep-image.ai/app/assets/EnhancerPRO-DiBNxOnT.webp",
-    client: "Hackathon", 
+    client: "100X Hackathon", 
     impact: "Enabled 3000+ property listings" 
   },
   {
